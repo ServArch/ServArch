@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Я Дима, и это мой github
+        👋 Я Дима 16 y/o, и это мой github
       </h1>
     </summary>
   </ul>
