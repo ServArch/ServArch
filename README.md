@@ -10,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="center">「Я Дима, Начинающий Backend Web Developer, пишу на python」</h3>**
+ **<h3 align="center">「Я Дима, начинающий Backend Web Developer, пишу на python」</h3>**
  **<h3 align="center">「Мне 16, учусь в 10 классе」</h3>**
 
  **<h3 align="left"> > Скиллы</h3>**
