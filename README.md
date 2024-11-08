@@ -10,9 +10,6 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/ServArch" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
  **<h3 align="left">🚀 Начинающий Python Backend-разработчик</h3>**
 
  **<h3 align="left">Skills</h3>**
