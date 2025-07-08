@@ -11,7 +11,7 @@
 </div>
 
  **<h3 align="center">「Я Дима, начинающий Backend Web Developer, пишу на python」</h3>**
- **<h3 align="center">「Мне 16, учусь в 10 классе」</h3>**
+ **<h3 align="center">「Мне 17, учусь в 11 классе」</h3>**
 
  **<h3 align="left"> > Скиллы</h3>**
 
