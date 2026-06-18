@@ -15,5 +15,5 @@
 
  **<h3 align="left"> > Скиллы</h3>**
 
-python
+python, FasstAPI, Postgresql, docker. git, sqlalchemy
 
