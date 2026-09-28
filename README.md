@@ -21,7 +21,6 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ServArch&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ServArch&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ServArch&show_icons=true&theme=radical&hide_border=true)](https://github.com/ServArch)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ServArch&layout=compact&theme=radical&hide_border=true)](https://github.com/ServArch)
