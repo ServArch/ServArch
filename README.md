@@ -17,10 +17,3 @@
 
 **Databases & Tools:**  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-d71f00?style=for-the-badge&logo=sqldatabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ServArch&show_icons=true&theme=radical&hide_border=true)](https://github.com/ServArch)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ServArch&layout=compact&theme=radical&hide_border=true)](https://github.com/ServArch)
